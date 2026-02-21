@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+pymysql
+python-dotenv
+cryptography
+flet
+requests
+pandas
+pytz

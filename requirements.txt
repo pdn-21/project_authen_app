@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 streamlit
+reflex
 sqlalchemy
 pymysql
 python-dotenv
